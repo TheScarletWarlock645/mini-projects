@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_0402_1005Metric";1;"4.7MΩ";;;
+2;"BZ1";"Buzzer_TDK_PS1240P02BT_D12.2mm_H6.5mm";1;"Buzzer";;;
+3;"BT1";"BatteryHolder_Keystone_3034_1x20mm";1;"3.3V battery";;;
+4;"U1";"DIP-8_W7.62mm";1;"LM555xN";;;
+5;"SW1";"SW_DIP_SPSTx01_Slide_6.7x4.1mm_W8.61mm_P2.54mm_LowProfile";1;"SPST";;;
+6;"C1";"CP_Elec_6.3x5.4";1;"100µF";;;
+7;"R2";"R_0805_2012Metric";1;"1KΩ";;;

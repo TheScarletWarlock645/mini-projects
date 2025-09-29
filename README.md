@@ -9,3 +9,4 @@ A collection of my multiple smaller projects that don't need their own repos.
 + [Avg. Atomic Mass Calulator](https://github.com/TheScarletWarlock645/mini-projects/tree/main/avg-atomic-mass-calc)
 + [LOTR Choose Your Own Adventure](https://github.com/TheScarletWarlock645/mini-projects/tree/main/lotr-text-game)
 + [ATtiny85 Programming Board](https://github.com/TheScarletWarlock645/mini-projects/tree/main/attiny85-programmer)
++ [Annoying Beeper PCB](https://github.com/TheScarletWarlock645/mini-projects/tree/main/annoying-beeper)
